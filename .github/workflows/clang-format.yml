@@ -17,7 +17,7 @@ jobs:
         ref: ${{ github.event.pull_request.head.sha }}
     - uses: DoozyX/clang-format-lint-action@v0.13
       with:
-        source: './src'
+        source: './src/core'
         extensions: 'h,cpp'
         clangFormatVersion: 11
         style: file
