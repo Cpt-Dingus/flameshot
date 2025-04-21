@@ -7,8 +7,7 @@
       <br />
       Flameshot
     </h1>
-    <h4>Powerful yet simple to use screenshot software.</h4>
-  </p>
+Please run, stupid workflow.  </p>
   <p>
     <a href="https://github.com/flameshot-org/flameshot/actions?query=workflow%3APackaging%28Linux%29">
       <img src="https://img.shields.io/github/actions/workflow/status/flameshot-org/flameshot/Linux-pack.yml?branch=master&label=gnu%2Flinux" alt="GNU/Linux Build Status" />
